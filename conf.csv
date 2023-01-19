@@ -24,3 +24,4 @@ cafe-instagram-unofficial,https://huggingface.co/NoCrypt/cafe-instagram-unoffici
 trinart-derrida_final,https://huggingface.co/naclbit/trinart_derrida_characters_v2_stable_diffusion/blob/main/derrida_final.ckpt,https://github.com/CompVis/stable-diffusion/blob/main/configs/stable-diffusion/v1-inference.yaml,1,512,512
 robo-v1,https://huggingface.co/nousr/robo-diffusion/blob/main/models/robo-diffusion-v1.ckpt,https://github.com/CompVis/stable-diffusion/blob/main/configs/stable-diffusion/v1-inference.yaml,1,512,512
 Counterfeit-V2.0,https://huggingface.co/gsdf/Counterfeit-V2.0/blob/main/Counterfeit-V2.0.ckpt,https://github.com/CompVis/stable-diffusion/blob/main/configs/stable-diffusion/v1-inference.yaml,2,640,384
+Replicant,https://huggingface.co/gsdf/Replicant/blob/main/Replicant_test01.safetensors,https://huggingface.co/gsdf/Replicant/blob/main/Replicant_test01.yaml,2,512,512
