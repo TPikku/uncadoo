@@ -29,3 +29,4 @@ Baka-Diffusion,https://huggingface.co/Hosioka/Baka-Diffusion/blob/main/Baka-Diff
 AniReal,https://huggingface.co/Hosioka/AniReal/blob/main/AniReal.safetensors,https://github.com/CompVis/stable-diffusion/blob/main/configs/stable-diffusion/v1-inference.yaml,2,512,512
 Cinnamon_mix_fixed,https://huggingface.co/nuigurumi/cinnamon_mix/blob/main/Cinnamon_mix_fixed.safetensors,https://github.com/CompVis/stable-diffusion/blob/main/configs/stable-diffusion/v1-inference.yaml,2,512,512
 animefull-final-pruned,https://pub-2fdef7a2969f43289c42ac5ae3412fd4.r2.dev/animefull-final-pruned.ckpt,https://pub-2fdef7a2969f43289c42ac5ae3412fd4.r2.dev/config-latest.yaml,1,512,512
+Anything-V3.0,https://huggingface.co/Linaqruf/anything-v3.0/blob/main/Anything-V3.0.safetensors,https://github.com/CompVis/stable-diffusion/blob/main/configs/stable-diffusion/v1-inference.yaml,1,512,512
