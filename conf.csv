@@ -25,3 +25,5 @@ trinart-derrida_final,https://huggingface.co/naclbit/trinart_derrida_characters_
 robo-v1,https://huggingface.co/nousr/robo-diffusion/blob/main/models/robo-diffusion-v1.ckpt,https://github.com/CompVis/stable-diffusion/blob/main/configs/stable-diffusion/v1-inference.yaml,1,512,512
 Counterfeit-V2.0,https://huggingface.co/gsdf/Counterfeit-V2.0/blob/main/Counterfeit-V2.0.ckpt,https://github.com/CompVis/stable-diffusion/blob/main/configs/stable-diffusion/v1-inference.yaml,2,640,384
 Replicant,https://huggingface.co/gsdf/Replicant/blob/main/Replicant_test01.safetensors,https://huggingface.co/gsdf/Replicant/blob/main/Replicant_test01.yaml,2,512,512
+Baka-Diffusion,https://huggingface.co/Hosioka/Baka-Diffusion/blob/main/Baka-DiffusionV1(Fp16).safetensors,https://github.com/CompVis/stable-diffusion/blob/main/configs/stable-diffusion/v1-inference.yaml,2,512,512
+AniReal,https://huggingface.co/Hosioka/AniReal/blob/main/AniReal.safetensors,https://github.com/CompVis/stable-diffusion/blob/main/configs/stable-diffusion/v1-inference.yaml,2,512,512
