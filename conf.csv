@@ -27,4 +27,4 @@ Counterfeit-V2.0,https://huggingface.co/gsdf/Counterfeit-V2.0/blob/main/Counterf
 Replicant,https://huggingface.co/gsdf/Replicant/blob/main/Replicant_test01.safetensors,https://huggingface.co/gsdf/Replicant/blob/main/Replicant_test01.yaml,2,512,512
 Baka-Diffusion,https://huggingface.co/Hosioka/Baka-Diffusion/blob/main/Baka-DiffusionV1(Fp16).safetensors,https://github.com/CompVis/stable-diffusion/blob/main/configs/stable-diffusion/v1-inference.yaml,2,512,512
 AniReal,https://huggingface.co/Hosioka/AniReal/blob/main/AniReal.safetensors,https://github.com/CompVis/stable-diffusion/blob/main/configs/stable-diffusion/v1-inference.yaml,2,512,512
-cinnamon_mix,https://huggingface.co/nuigurumi/cinnamon_mix/blob/main/Cinnamon_mix_fixed.safetensors,https://github.com/CompVis/stable-diffusion/blob/main/configs/stable-diffusion/v1-inference.yaml,2,512,512
+Cinnamon_mix_fixed,https://huggingface.co/nuigurumi/cinnamon_mix/blob/main/Cinnamon_mix_fixed.safetensors,https://github.com/CompVis/stable-diffusion/blob/main/configs/stable-diffusion/v1-inference.yaml,2,512,512
