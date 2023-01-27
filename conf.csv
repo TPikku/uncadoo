@@ -32,4 +32,6 @@ animefull-final-pruned,https://pub-2fdef7a2969f43289c42ac5ae3412fd4.r2.dev/anime
 Anything-V3.0,https://huggingface.co/Linaqruf/anything-v3.0/blob/main/Anything-V3.0.safetensors,https://github.com/CompVis/stable-diffusion/blob/main/configs/stable-diffusion/v1-inference.yaml,2,512,512
 Evt_V3_ema,https://huggingface.co/haor/Evt_V3/blob/main/Evt_V3_ema.ckpt,https://github.com/CompVis/stable-diffusion/blob/main/configs/stable-diffusion/v1-inference.yaml,2,512,512
 EimisAnimeDiffusion_1-0v,https://huggingface.co/eimiss/EimisAnimeDiffusion_1.0v/blob/main/EimisAnimeDiffusion_1-0v.ckpt,https://github.com/CompVis/stable-diffusion/blob/main/configs/stable-diffusion/v1-inference.yaml,2,512,512
-mmk-e_fucked@30epoch,https://gajakqkwy7aia.onrender.com/watch/111706/mmk-e_fucked%4030epoch.ckpt?hash=AgADDw,https://github.com/CompVis/stable-diffusion/blob/main/configs/stable-diffusion/v1-inference.yaml,2,512,512
+mmk-e_fucked@30epoch,replace ,https://github.com/CompVis/stable-diffusion/blob/main/configs/stable-diffusion/v1-inference.yaml,2,512,512
+bp_mk5,https://huggingface.co/Crosstyan/BPModel/blob/main/bp_mk5.safetensors,https://github.com/CompVis/stable-diffusion/blob/main/configs/stable-diffusion/v1-inference.yaml,2,512,512
+pastelmix-fp16,https://huggingface.co/andite/pastel-mix/blob/main/pastelmix-fp16.safetensors,https://github.com/CompVis/stable-diffusion/blob/main/configs/stable-diffusion/v1-inference.yaml,2,512,512
