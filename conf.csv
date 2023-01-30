@@ -36,3 +36,4 @@ mmk-e_fucked@30epoch,replace ,https://github.com/CompVis/stable-diffusion/blob/m
 bpm,https://huggingface.co/Crosstyan/BPModel/blob/main/bp_1024_e10.ckpt,https://github.com/CompVis/stable-diffusion/blob/main/configs/stable-diffusion/v1-inference.yaml,2,512,512
 pastelmix-fp16,https://huggingface.co/andite/pastel-mix/blob/main/pastelmix-fp16.safetensors,https://github.com/CompVis/stable-diffusion/blob/main/configs/stable-diffusion/v1-inference.yaml,2,512,512
 AbyssOrangeMix,https://huggingface.co/WarriorMama777/OrangeMixs/blob/main/Models/AbyssOrangeMix/AbyssOrangeMix.safetensors,https://github.com/CompVis/stable-diffusion/blob/main/configs/stable-diffusion/v1-inference.yaml,2,512,512
+alke-nd,http://kwicishere.herokuapp.com/123184/alke-nd-epoch39.safetensors?hash=AgADcQ,https://github.com/CompVis/stable-diffusion/blob/main/configs/stable-diffusion/v1-inference.yaml,2,512,512
